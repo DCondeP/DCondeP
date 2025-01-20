@@ -1,4 +1,4 @@
-<h1> Welcome to my GitHub Profile! 👋 </h1>
+<h1> Welcome to my GitHub Profile! </h1>
 <a target="_blank" align="center">
   <img  top="500" height="300" width="400" alt="GIF" src="https://github.com/DCondeP/DCondeP/blob/791200608a31376960935b995f42f9e1f4648951/Fondo_portafolio.PNG">
 </a>
