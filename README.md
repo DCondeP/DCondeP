@@ -13,7 +13,7 @@
       <li>Python</li>
       <li>Excel</li>
       <li>SQL</li>
-      <li>PowerBi</li>
+      <li>PowerBI</li>
     </ul>
   </li>
   <li>Academic background
